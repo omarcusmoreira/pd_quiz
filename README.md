@@ -21,7 +21,7 @@ Layout created by myself at: https://www.figma.com/file/E3jFBgQDU8Zrwgwodkk2mM/P
 - [X] Display total right answers;
 - [X] Display customized message if failed or passed;
 - [X] Display restar test Button
-- [ ] Reset states for a next question/new quiz;
+- [ ] Reset states for next question/new quiz;
 - [ ] Design logo;
 - [ ] Design favicon;
 
