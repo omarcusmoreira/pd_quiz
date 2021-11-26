@@ -1,6 +1,6 @@
 # PD Quiz
 
-<img width="480" alt="Inicio" src="https://user-images.githubusercontent.com/33607358/143507450-86716b4f-8e8a-40e2-af40-fdd1d389251c.png"> <img width="480" alt="Quizz" src="https://user-images.githubusercontent.com/33607358/143507453-351f576a-2aad-4085-9fa6-f2f69df1cb1f.png"> <img width="480" alt="Finish" src="https://user-images.githubusercontent.com/33607358/143507454-e2467308-5110-42ef-aef9-f4a88edf5214.png">
+<img width="420" alt="Inicio" src="https://user-images.githubusercontent.com/33607358/143507450-86716b4f-8e8a-40e2-af40-fdd1d389251c.png"> <img width="420" alt="Quizz" src="https://user-images.githubusercontent.com/33607358/143507453-351f576a-2aad-4085-9fa6-f2f69df1cb1f.png"> <img width="420" alt="Finish" src="https://user-images.githubusercontent.com/33607358/143507454-e2467308-5110-42ef-aef9-f4a88edf5214.png">
 
 This Project consists in a simple HTML Quiz, that will cycle through an object of questions 
 
