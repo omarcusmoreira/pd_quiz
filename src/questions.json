@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "question": "What type of a language is HTML?",
+    "alternatives": [
+      { "alt": "Scripting Language", "id": "1" },
+      { "alt": "Markup Language", "id": "2" },
+      { "alt": "Programming Language", "id": "3" },
+      { "alt": "Network Protocol", "id": "4" }
+    ],
+    "right_answer": "2"
+  },
+  {
+    "id": "2",
+    "question": "What should be the first tag in any HTML Document?",
+    "alternatives": [
+      { "alt": "<head>", "id": "1" },
+      { "alt": "<html>", "id": "2" },
+      { "alt": "<!doctype html>", "id": "3" },
+      { "alt": "<title>", "id": "4" }
+    ],
+    "right_answer": "3"
+  },
+  {
+    "id": "3",
+    "question": "What tag is used to display a picture in a HTML page?",
+    "alternatives": [
+      { "alt": "Img", "id": "1" },
+      { "alt": "Picture", "id": "2" },
+      { "alt": "Image", "id": "3" },
+      { "alt": "src", "id": "4" }
+    ],
+    "right_answer": "1"
+  },
+  {
+    "id": "4",
+    "question": "HTML are web pages read and rendered by",
+    "alternatives": [
+      { "alt": "Server", "id": "1" },
+      { "alt": "Compiler", "id": "2" },
+      { "alt": "Interpreter", "id": "3" },
+      { "alt": "Web Browser", "id": "4" }
+    ],
+    "right_answer": "4"
+  },
+  {
+    "id": "5",
+    "question": "What is the correct HTML tag for inserting a line break?",
+    "alternatives": [
+      { "alt": "<br />", "id": "1" },
+      { "alt": "<break />", "id": "2" },
+      { "alt": "<nbsp />", "id": "3" },
+      { "alt": "<lb />", "id": "4" }
+    ],
+    "right_answer": "1"
+  },
+  {
+    "id": "6",
+    "question": "What is the correct HTML for making a hyperlink?",
+    "alternatives": [
+      { "alt": "url=*http://mcqsets.com*>MCQ Sets Quiz", "id": "1" },
+      { "alt": "<a href=*http://mcqsets.com*>MCQ Sets Quiz</a>", "id": "2" },
+      { "alt": "<http://mcqsets.com</a>", "id": "3" },
+      { "alt": "<a name=*http://mcqsets.com*>MCQ Sets Quiz</a>", "id": "4" }
+    ],
+    "right_answer": "2"
+  },
+  {
+    "id": "7",
+    "question": "HTML documents are saved in",
+    "alternatives": [
+      { "alt": "None of above", "id": "1" },
+      { "alt": "Special binary format", "id": "2" },
+      { "alt": "Machine language codes", "id": "3" },
+      { "alt": "ASCII text", "id": "4" }
+    ],
+    "right_answer": "4"
+  },
+  {
+    "id": "8",
+    "question": "Which tag defines an list item?",
+    "alternatives": [
+      { "alt": "<ul>", "id": "1" },
+      { "alt": "<ol>", "id": "2" },
+      { "alt": "<li>", "id": "3" },
+      { "alt": "<il>", "id": "4" }
+    ],
+    "right_answer": "3"
+  },
+  {
+    "id": "9",
+    "question": "Which tag creates a check box for a form in HTML?",
+    "alternatives": [
+      { "alt": "<input type=*checkbox*>", "id": "1" },
+      { "alt": "<checkbox>", "id": "2" },
+      { "alt": "<input checkbox>", "id": "3" },
+      { "alt": "<input=checkbox>", "id": "4" }
+    ],
+    "right_answer": "1"
+  },
+  {
+    "id": "10",
+    "question": "Choose the correct HTML tag for the smallest size heading?",
+    "alternatives": [
+      { "alt": "<h6>", "id": "1" },
+      { "alt": "<head>", "id": "2" },
+      { "alt": "<heading>", "id": "3" },
+      { "alt": "<h1>", "id": "4" }
+    ],
+    "right_answer": "1"
+  }
+]
