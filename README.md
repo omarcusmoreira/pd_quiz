@@ -5,6 +5,7 @@
 This Project consists in a simple HTML Quiz, that will cycle through an object of questions and in the end will display a customized message depending if the user marked >6 asweres correct.
 
 Technologies used:
+
 - Typescript;
 - Styled Components;
 - ReactJS;
@@ -14,14 +15,14 @@ Layout created by myself at: https://www.figma.com/file/E3jFBgQDU8Zrwgwodkk2mM/P
 
 # TODO LIST:
 
-- [X] Display button for Starting quiz;
-- [X] Display question with 4 possible alternatives;
-- [X] CHeck if answer is correct (highlight green) or wrong (highlight red)
-- [X] Display NEXT button for navigating to next question;
-- [X] Display total right answers;
-- [X] Display customized message if failed or passed;
-- [X] Display restart Button after completing the test;
-- [ ] Reset states for next question;
+- [x] Display button for Starting quiz;
+- [x] Display question with 4 possible alternatives;
+- [x] CHeck if answer is correct (highlight green) or wrong (highlight red)
+- [x] Display NEXT button for navigating to next question;
+- [x] Display total right answers;
+- [x] Display customized message if failed or passed;
+- [x] Display restart Button after completing the test;
+- [x] Reset states for next question;
 - [ ] Design logo;
 - [ ] Design favicon;
 
