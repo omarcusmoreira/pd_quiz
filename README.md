@@ -20,8 +20,9 @@ Layout created by myself at: https://www.figma.com/file/E3jFBgQDU8Zrwgwodkk2mM/P
 - [X] Display NEXT button for navigating to next question;
 - [X] Display total right answers;
 - [X] Display customized message if failed or passed;
-- [X] Display restar test Button
-- [ ] Reset states for next question/new quiz;
+- [X] Display restar test Button;
+- [X] Display button to restart Quiz;
+- [ ] Reset states for next question;
 - [ ] Design logo;
 - [ ] Design favicon;
 
