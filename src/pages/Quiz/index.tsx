@@ -34,8 +34,8 @@ export function Quiz() {
   function renderNextQuestion() {
     nextQuestion();
     setIsChecked(false);
-    setIsAnswerCorrect(false);
     isAnswerCorrect && incrementRightAnswersTotal();
+    setIsAnswerCorrect(false);
   }
 
   return (

@@ -58,10 +58,13 @@
     "id": "6",
     "question": "What is the correct HTML for making a hyperlink?",
     "alternatives": [
-      { "alt": "url=*http://mcqsets.com*>MCQ Sets Quiz", "id": "1" },
-      { "alt": "<a href=*http://mcqsets.com*>MCQ Sets Quiz</a>", "id": "2" },
+      {
+        "alt": "url=\"http://mcqsets.com\">MCQ Sets Quiz",
+        "id": "1"
+      },
+      { "alt": "<a href=\"http://mcqsets.com\">MCQ Sets Quiz</a>", "id": "2" },
       { "alt": "<http://mcqsets.com</a>", "id": "3" },
-      { "alt": "<a name=*http://mcqsets.com*>MCQ Sets Quiz</a>", "id": "4" }
+      { "alt": "<a name=\"http://mcqsets.com\">MCQ Sets Quiz</a>", "id": "4" }
     ],
     "right_answer": "2"
   },
@@ -91,7 +94,7 @@
     "id": "9",
     "question": "Which tag creates a check box for a form in HTML?",
     "alternatives": [
-      { "alt": "<input type=*checkbox*>", "id": "1" },
+      { "alt": "<input type=\"checkbox\">", "id": "1" },
       { "alt": "<checkbox>", "id": "2" },
       { "alt": "<input checkbox>", "id": "3" },
       { "alt": "<input=checkbox>", "id": "4" }
