@@ -50,8 +50,9 @@ export function QuestionsContextProvider({ children }: Props) {
   }
 
   function restartQuiz() {
-    setCurrentQuestionIndex(1);
-    setCurrentQuestion(questions[currentQuestionIndex]);
+    setCurrentQuestionIndex(0);
+    setCurrentQuestion(questions[0]);
+    setRightAnswersTotal(0);
   }
 
   return (

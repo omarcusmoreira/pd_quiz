@@ -27,9 +27,14 @@ export function Results() {
                 ? "You are an Expert in HTML. Don't worry about your interview and just go for it! Take a deep breath and shine!"
                 : "It was not this time! But don't worry, there are tons of great content in this website so you can study some more and pass the next time!"}
             </p>
-            <Link to="/">
-              <button type="button" onClick={() => {}}>
-                BACK
+            <Link to="/quiz">
+              <button
+                type="button"
+                onClick={() => {
+                  restartQuiz();
+                }}
+              >
+                RESTART
               </button>
             </Link>
           </main>
