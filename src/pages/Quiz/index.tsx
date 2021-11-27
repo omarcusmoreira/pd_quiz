@@ -36,6 +36,7 @@ export function Quiz() {
     setIsChecked(false);
     isAnswerCorrect && incrementRightAnswersTotal();
     setIsAnswerCorrect(false);
+    setSelectedAnswer("");
   }
 
   return (
@@ -64,6 +65,7 @@ export function Quiz() {
                       id={id}
                       name="option_"
                       onChange={({ target }) => setSelectedAnswer(target.id)}
+                      checked={selectedAnswer === id}
                       disabled={isChecked}
                     />
                     {alt}
