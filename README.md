@@ -4,6 +4,8 @@
 
 This Project consists in a simple HTML Quiz, that will cycle through an object of questions and in the end will display a customized message depending if the user marked >6 asweres correct.
 
+Vercel link: https://pd-quiz-6jxn6xmil-omarcusmoreira.vercel.app/results
+
 Technologies used:
 
 - Typescript;
